@@ -15,7 +15,9 @@ This is our regular Dev Log, where we share how Flipper One development is going
 
 All logs:
 
-- [#9: New boot menu & Flipper OS Installer](./9.md), Flipper OS Installer, Flipper One portable DevKit, new Falcon-based boot menu, and Power Meter emulator.
+- [#10: Run your own Flipper One](./10.md), install Flipper OS on supported RK3576-based SBC and try FlipCTL UI, App Manager, and OS profiles.
+
+- [#9: New boot menu & Full desktop in 9.5 seconds](./9.md), Flipper One portable DevKit, Flipper OS online installer, new powerful boot menu, and Power Meter emulator.
 
 - [#8: New Flipper One body design](./8.md), key & touch events injection CLI, and fixes in upstream U-Boot.
 
